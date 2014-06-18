@@ -1,4 +1,9 @@
-<h1>Firefox Update Script</h1>
+<h1>Linux Scripts</h1>
+
+This repository will contain different scripts that I am creating to perform specific tasks in Linux Debian and derivatives (such as Ubuntu and Mint).
+
+
+<h4>Firefox Update Script</h4>
 
 This script was developed to update firefox version on Ubuntu 8.04
 (Hardy Heron) by downloading the newest .tar.bz2 file from the official mozilla web site and replacing the current installation.<br>
