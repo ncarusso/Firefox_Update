@@ -1,7 +1,8 @@
 <h1>Linux Scripts</h1>
 
-This repository will contain different scripts that I am creating to perform specific tasks in Linux Debian and derivatives (such as Ubuntu and Mint).
+This repository will contain different scripts that I am creating to perform specific tasks in Linux. Despite the fact the fact that in most cases I use Debian and derivatives (such as Ubuntu and Mint), I always try to write the scripts as generic as possible so they should work as expected in all distributions.
 
+<HR>
 
 <h4>Firefox Update Script</h4>
 
